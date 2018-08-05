@@ -1,0 +1,10 @@
+D:\学习\C#\代码\TCPIP客户端\TCPIP客户端\TCPIP客户端\bin\Debug\TCPIP客户端.exe.config
+D:\学习\C#\代码\TCPIP客户端\TCPIP客户端\TCPIP客户端\bin\Debug\TCPIP客户端.exe
+D:\学习\C#\代码\TCPIP客户端\TCPIP客户端\TCPIP客户端\bin\Debug\TCPIP客户端.pdb
+D:\学习\C#\代码\TCPIP客户端\TCPIP客户端\TCPIP客户端\obj\Debug\TCPIP客户端.csprojAssemblyReference.cache
+D:\学习\C#\代码\TCPIP客户端\TCPIP客户端\TCPIP客户端\obj\Debug\TCPIP客户端.Form1.resources
+D:\学习\C#\代码\TCPIP客户端\TCPIP客户端\TCPIP客户端\obj\Debug\TCPIP客户端.Properties.Resources.resources
+D:\学习\C#\代码\TCPIP客户端\TCPIP客户端\TCPIP客户端\obj\Debug\TCPIP客户端.csproj.GenerateResource.cache
+D:\学习\C#\代码\TCPIP客户端\TCPIP客户端\TCPIP客户端\obj\Debug\TCPIP客户端.csproj.CoreCompileInputs.cache
+D:\学习\C#\代码\TCPIP客户端\TCPIP客户端\TCPIP客户端\obj\Debug\TCPIP客户端.exe
+D:\学习\C#\代码\TCPIP客户端\TCPIP客户端\TCPIP客户端\obj\Debug\TCPIP客户端.pdb
